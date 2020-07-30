@@ -1,0 +1,11 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+.image {
+  background-image: url('../image/showcase.jpg');
+  background-size: cover;
+  background-position: center;
+  height:80vh;
+}
