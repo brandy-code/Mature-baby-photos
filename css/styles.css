@@ -7,8 +7,11 @@
   background-image: url('../image/showcase.jpg');
   background-size: cover;
   background-position: center;
-  height:80vh;
+  height:100vh;
 }
 header {
   color: beige;
+}
+body {
+  background-color: yellow;
 }
